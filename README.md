@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Chetan Chavan and I'm a Full Stack Developer from Pune</h2>
+<h2 align="left">Hi 👋! My name is Chetan Chavan and I'm a Full Stack Developer At Apixel House</h2>
 
 <br clear="both">
 
