@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Chetan Chavan and I'm a Full Stack Developer At A pixel House</h2>
+<h2 align="left">Hi 👋! My name is Chetan Chavan and I'm a Full Stack Developer At A Pixel House</h2>
 
 <br clear="both">
 
